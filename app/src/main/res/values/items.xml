@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis illo itaque minus obcaecati quae ratione! Accusamus aut blanditiis culpa debitis dignissimos distinctio explicabo fuga, nisi nobis numquam, quos sapiente sint!</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore earum magnam suscipit? Alias aperiam facere fuga maxime nisi similique, voluptas voluptate. Aperiam asperiores deserunt eos fuga veniam voluptatum! Fugit, incidunt.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolorem impedit molestias nam natus pariatur soluta voluptatum. Commodi culpa incidunt pariatur velit. Doloremque dolorum laboriosam nulla rerum soluta. Amet, ullam.</item>
+    </string-array>
+</resources>
